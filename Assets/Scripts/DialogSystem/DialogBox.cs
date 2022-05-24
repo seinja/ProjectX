@@ -19,6 +19,7 @@ public class DialogBox : MonoBehaviour
     public void ShowDialog(DialogSentencesSO sentences)
     {
         _dialogContainer.SetActive(true);
+        AudioPlayer.Instance.PlayDialogShow();
         _dialog = sentences.Sentences;
         
         ResetDialogBox();
@@ -34,6 +35,7 @@ public class DialogBox : MonoBehaviour
 
     private void HideDialog()
     {
+        AudioPlayer.Instance.PlayDialogHide();
         _dialogContainer.SetActive(false);
     }
 
@@ -64,6 +66,7 @@ public class DialogBox : MonoBehaviour
         foreach (var letter in text)
         {
             _dialogText.text += letter;
+            AudioPlayer.Instance.PlayDialogType();
             yield return new WaitForSeconds(_typeSpeed);
         }
 
