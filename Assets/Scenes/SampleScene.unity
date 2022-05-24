@@ -3073,7 +3073,7 @@ MonoBehaviour:
   m_ChildAlignment: 4
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 60, y: 60}
+  m_CellSize: {x: 170, y: 170}
   m_Spacing: {x: 10, y: 0}
   m_Constraint: 2
   m_ConstraintCount: 1
@@ -3329,8 +3329,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 35}
-  m_SizeDelta: {x: 450, y: 70}
+  m_AnchoredPosition: {x: 0, y: 95}
+  m_SizeDelta: {x: 1200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2023549559
 GameObject:
@@ -3878,11 +3878,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3455888335389942670, guid: 7cfd4c5e5b053b343835fdc174e1701f, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 196
+      value: 531
       objectReference: {fileID: 0}
     - target: {fileID: 3455888335389942670, guid: 7cfd4c5e5b053b343835fdc174e1701f, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 40
+      value: 108
       objectReference: {fileID: 0}
     - target: {fileID: 4262230955093444342, guid: 7cfd4c5e5b053b343835fdc174e1701f, type: 3}
       propertyPath: _mainCanvas
