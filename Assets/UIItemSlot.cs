@@ -13,12 +13,14 @@ public class UIItemSlot : MonoBehaviour, IDropHandler
     private InventoryItem _currentItem;
 
     public bool IsSet = false;
-    public InventoryItem CurrentItem => _currentItem;
+    public bool IsHotbar = false;
 
-
-    private void Awake()
+    private void Start()
     {
-        
+        if (IsHotbar) 
+        {
+            Clear();
+        }
     }
 
     public void Set(InventoryItem item) 

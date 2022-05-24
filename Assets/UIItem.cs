@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 
 public class UIItem : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHandler
 {
-    private Canvas _mainCanvas;
+    [SerializeField] private Canvas _mainCanvas;
     private RectTransform _rectTransform;
     private CanvasGroup _canvasGroup;
 
@@ -13,15 +13,11 @@ public class UIItem : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHa
     {
         _canvasGroup = GetComponent<CanvasGroup>();
         _rectTransform = GetComponent<RectTransform>();
-        _mainCanvas = GetComponentInParent<Canvas>();
     }
 
 
     public void OnBeginDrag(PointerEventData eventData)
-    {
-        var slotTransform = _rectTransform.parent;
-        slotTransform.SetAsLastSibling();
-
+    { 
         _canvasGroup.blocksRaycasts = false;
     }
 
