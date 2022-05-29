@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using UnityEngine;
-using System;
 
 public class InventorySystem : MonoBehaviour
 {
@@ -15,7 +14,7 @@ public class InventorySystem : MonoBehaviour
 
     private void Awake()
     {
-        if (Instance == null) 
+        if (Instance == null)
         {
             Instance = this;
         }
@@ -27,7 +26,7 @@ public class InventorySystem : MonoBehaviour
         _inventoryUI.SetActive(false);
     }
 
-    public void OnOffInventory() 
+    public void OnOffInventory()
     {
         _inventoryUI.SetActive(!_inventoryUI.activeInHierarchy);
         _inventoryUI.GetComponent<InventoryUI>().DrawInventory();

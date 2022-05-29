@@ -14,6 +14,14 @@ public class PlayerPicker : MonoBehaviour
         }
     }
 
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.TryGetComponent(out INteractable item))
+        {
+            _currentObject = item;
+        }
+    }
+
     private void Update()
     {
         if (_currentObject == null) return;
