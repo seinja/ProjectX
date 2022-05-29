@@ -23,6 +23,11 @@ public class PlayerMovement : MonoBehaviour
         _movementDirection.y = Input.GetAxisRaw("Vertical");
 
         SendDataToAnimator();
+
+        if (Input.GetKeyDown(KeyCode.I)) 
+        {
+            InventorySystem.Instance.OnOffInventory();
+        }
     }
 
     private void FixedUpdate()
