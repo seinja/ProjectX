@@ -41,5 +41,4 @@ public class PlayerMovement : MonoBehaviour
         _playerAnimation.SetupDirection(_movementDirection);
     }
 
-
 }
