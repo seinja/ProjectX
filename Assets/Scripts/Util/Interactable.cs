@@ -2,7 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface INteractable
+public class Interactable : MonoBehaviour
 {
-    public void Interact();
+    public virtual void Interact(Character character) 
+    {
+
+    }
 }
+

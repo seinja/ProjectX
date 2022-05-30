@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b513223f9d2404982d58829e57a4d7, type: 3}
+  m_Name: New Item Container
+  m_EditorClassIdentifier: 
+  Slots:
+  - Item: {fileID: 11400000, guid: 1016d9496ab5080489a1bc673203e9fb, type: 2}
+    SizeOfStack: 12
+  - Item: {fileID: 11400000, guid: 1d032de793cf3984d8f76c9996809b14, type: 2}
+    SizeOfStack: 10
+  - Item: {fileID: 11400000, guid: 42d0d5afbbfee414db32af5eb5e213ab, type: 2}
+    SizeOfStack: 5
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
