@@ -8,6 +8,24 @@ public class ItemSlot
 {
     public Item Item;
     public int SizeOfStack;
+
+    public void Copy(ItemSlot slot) 
+    {
+        slot.Item = Item;
+        slot.SizeOfStack = SizeOfStack;
+    }
+
+    public void Set(Item item, int count) 
+    {
+        this.Item = item;
+        this.SizeOfStack = count;
+    }
+
+    public void Clear() 
+    {
+        Item = null;
+        SizeOfStack = 0;
+    }
 }
 
 [CreateAssetMenu(menuName = "Data/Item Container")]

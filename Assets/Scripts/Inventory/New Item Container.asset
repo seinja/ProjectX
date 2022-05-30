@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: New Item Container
   m_EditorClassIdentifier: 
   Slots:
-  - Item: {fileID: 11400000, guid: 1016d9496ab5080489a1bc673203e9fb, type: 2}
-    SizeOfStack: 12
-  - Item: {fileID: 11400000, guid: 1d032de793cf3984d8f76c9996809b14, type: 2}
-    SizeOfStack: 10
-  - Item: {fileID: 11400000, guid: 42d0d5afbbfee414db32af5eb5e213ab, type: 2}
-    SizeOfStack: 5
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
+  - Item: {fileID: 0}
+    SizeOfStack: 0
   - Item: {fileID: 0}
     SizeOfStack: 0
   - Item: {fileID: 0}

@@ -2,9 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 using TMPro;
 
-public class ItemSlotButton : MonoBehaviour
+public class ItemSlotButton : MonoBehaviour, IPointerClickHandler
 {
     [SerializeField] private Image _itemIcon;
     [SerializeField] private TextMeshProUGUI _itemsCountText;
@@ -36,5 +37,14 @@ public class ItemSlotButton : MonoBehaviour
         _itemIcon.sprite = null;
         _itemsCountText.gameObject.SetActive(false);
         _itemIcon.gameObject.SetActive(false);
+    }
+
+    public void OnPointerClick(PointerEventData eventData)
+    {
+        Debug.Log("Click on " + _itemIndex);
+        ItemContainer inventory = GameManager.Instance.ItemContainer;
+        GameManager.Instance.ItemDragAndDropController.OnClick(inventory.Slots[_itemIndex]);
+
+        transform.parent.GetComponent<InventoryPanel>().Show();
     }
 }
