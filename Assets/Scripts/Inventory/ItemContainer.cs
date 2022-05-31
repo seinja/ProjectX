@@ -11,8 +11,8 @@ public class ItemSlot
 
     public void Copy(ItemSlot slot) 
     {
-        slot.Item = Item;
-        slot.SizeOfStack = SizeOfStack;
+        Item = slot.Item;
+        SizeOfStack = slot.SizeOfStack;
     }
 
     public void Set(Item item, int count) 

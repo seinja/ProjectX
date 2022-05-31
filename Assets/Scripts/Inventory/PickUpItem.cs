@@ -49,4 +49,14 @@ public class PickUpItem : MonoBehaviour
             }
         }
     }
+
+
+    public void Set(Item item, int count) 
+    {
+        this._item = item;
+        this._count = count;
+
+        SpriteRenderer renderer = GetComponent<SpriteRenderer>();
+        renderer.sprite = item.Icon;
+    }
 }

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4251491185524740443}
   - component: {fileID: 4251491185524740444}
   m_Layer: 0
-  m_Name: Stick2D-Isometric
+  m_Name: PickUpItemPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

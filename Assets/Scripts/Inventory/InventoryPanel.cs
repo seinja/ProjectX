@@ -22,7 +22,7 @@ public class InventoryPanel : MonoBehaviour
 
     public void Show() 
     {
-        for (int i = 0; i < _inventory.Slots.Count; i++)
+        for (int i = 0; i < _inventory.Slots.Count && i < _itemSlots.Count; i++)
         {
             if (_inventory.Slots[i].Item != null)
             {
@@ -37,7 +37,7 @@ public class InventoryPanel : MonoBehaviour
 
     private void SetIndex() 
     {
-        for (int i = 0; i < _inventory.Slots.Count; i++)
+        for (int i = 0; i < _inventory.Slots.Count && i < _itemSlots.Count; i++)
         {
             _itemSlots[i].SetIndex(i);
         }
