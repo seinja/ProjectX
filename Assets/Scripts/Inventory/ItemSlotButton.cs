@@ -41,10 +41,16 @@ public class ItemSlotButton : MonoBehaviour, IPointerClickHandler
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        Debug.Log("Click on " + _itemIndex);
-        ItemContainer inventory = GameManager.Instance.ItemContainer;
-        GameManager.Instance.ItemDragAndDropController.OnClick(inventory.Slots[_itemIndex]);
+        InventoryPanel inventory = transform.parent.GetComponent<InventoryPanel>();
+        inventory.OnClick(_itemIndex);
 
-        transform.parent.GetComponent<InventoryPanel>().Show();
     }
+
+    public void Highlight(bool b) 
+    {
+        Debug.Log("Highlight");
+        // Add some effect of highlight 
+    }
+
+
 }

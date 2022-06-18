@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -27,5 +28,10 @@ public class ToolBarController : MonoBehaviour
         }
 
         Debug.Log(_selectedTool);
+    }
+
+    internal void Set(int id)
+    {
+        _selectedTool = id;
     }
 }
