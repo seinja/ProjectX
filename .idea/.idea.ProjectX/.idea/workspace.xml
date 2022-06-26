@@ -4,7 +4,201 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a962ffa3-7cdf-4d31-a066-9a45691b66d9" name="Changes" comment="" />
+    <list default="true" id="a962ffa3-7cdf-4d31-a066-9a45691b66d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Items/InventoryHolder.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/InventoryHolder.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Items/InventoryHolder.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/InventoryHolder.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Items/Item.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Items/Item.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Background.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Background/smudgy_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Background/smudgy_bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Character Sheet/character_body_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Character Sheet/character_body_background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/down_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/down_h.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/down_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/down_n.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/down_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/down_p.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/slider_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/slider_h.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/slider_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/slider_n.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/slider_rail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/slider_rail.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/up_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/up_h.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/up_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/up_n.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/up_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/Slider/up_p.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/add_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/add_h.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/add_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/add_n.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/add_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/add_p.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/bubble_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/bubble_h.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/bubble_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/bubble_n.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/bubble_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/bubble_p.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/channel_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/channel_h.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/channel_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/channel_n.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/channel_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/channel_p.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/chat_expander.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/chat_expander.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/chat_imput.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/chat_imput.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/chat_main_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/chat_main_bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/hide_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/hide_h.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/hide_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/hide_n.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/hide_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/hide_p.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/next_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/next_h.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/next_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/next_n.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/next_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/next_p.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/preview_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/preview_h.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/preview_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/preview_n.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/preview_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/preview_p.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/settings_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/settings_h.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/settings_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/settings_n.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/settings_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/settings_p.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/show_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/show_h.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/show_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/show_n.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/show_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/show_p.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/text_container.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/text_container.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/wooden_border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Chat/wooden_border.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/item_bow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/item_bow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/item_sword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/item_sword.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/pet_attack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/pet_attack.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/pet_follow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/pet_follow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/pet_move.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/pet_move.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/pet_stalk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/pet_stalk.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/pet_tare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/pet_tare.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/portrait_pet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/portrait_pet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/portrait_ranger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/portrait_ranger.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/portrait_rogue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/portrait_rogue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/portrait_warlock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/portrait_warlock.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/portrait_warrior.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/portrait_warrior.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/spell_dark_seeker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/spell_dark_seeker.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/spell_fireball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Created Resources/spell_fireball.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Frame Progression/ranger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Frame Progression/ranger.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Frame Progression/rogue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Frame Progression/rogue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Frame Progression/warlock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Frame Progression/warlock.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Frame Progression/warrior.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Frame Progression/warrior.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/Slider Type 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/Slider Type 2/log_in_news_rail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/Slider Type 2/log_in_news_rail.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/Slider Type 2/slide_hovered_dragged.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/Slider Type 2/slide_hovered_dragged.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/Slider Type 2/slide_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/Slider Type 2/slide_normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/logo_smaller.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/logo_smaller.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/news_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/news_bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/news_border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/news_border.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wide_button_hovered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wide_button_hovered.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wide_button_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wide_button_normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wide_button_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wide_button_pressed.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wider_form_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wider_form_background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wider_form_frame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wider_form_frame.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wider_form_merged.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Log In Screen/wider_form_merged.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Logo Rendered.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Logo Rendered/logo_texture_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Logo Rendered/logo_texture_back.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Logo Rendered/text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Logo Rendered/text.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/example_spell_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/example_spell_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/example_spell_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/example_spell_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/example_spell_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/example_spell_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/example_spell_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/example_spell_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/example_spell_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/example_spell_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_ability_gloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_ability_gloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_action_bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_action_bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_action_empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_action_empty.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_action_frame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_action_frame.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_hp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_hp.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_indicator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_indicator.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_small_portrait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/pet_small_portrait.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/placeholder.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/portrait_inner_shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/portrait_inner_shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/small_glare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/small_glare.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/small_portrait_frame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ranger V2 GUI/Sliced UI/Pet Frame/small_portrait_frame.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/PickUpItemPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/PickUpItemPrefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +209,13 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/DialogSentencesSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/DialogStructure.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/DialogTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inventory/InventoryButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inventory/InventoryController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inventory/InventoryPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inventory/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inventory/ItemContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inventory/PickUpItem.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

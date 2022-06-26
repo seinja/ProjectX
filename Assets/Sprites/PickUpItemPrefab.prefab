@@ -98,9 +98,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _speed: 5
   _pickUpDistance: 1.5
-  _timeToLeve: 10
-  _item: {fileID: 11400000, guid: 1d032de793cf3984d8f76c9996809b14, type: 2}
-  _count: 1
+  _ttl: 10
+  _item: {fileID: 11400000, guid: ac0f893a3215c1a4dbaf811e07217fea, type: 2}
+  _count: 5
 --- !u!50 &4251491185524740444
 Rigidbody2D:
   serializedVersion: 4
